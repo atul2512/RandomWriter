@@ -10,5 +10,4 @@ has a Markov component to it. In the case of English text, the Markov model is u
 sequence of characters within a body of text is clearly not just a random rearrangement of letters and the Markov model provides a way to discover the underlying patterns and, in this case, to use 
 those patterns to generate new text that fits the model.
 
-#copied Stanford Assignment
 
